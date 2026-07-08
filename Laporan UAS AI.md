@@ -79,10 +79,10 @@
 9\. Referensi
 
 * Chatterjee, D., Ghosh, P., Banerjee, A., & Das, S. S. (2024). Optimizing machine learning for water safety: A comparative analysis with dimensionality reduction and classifier performance in potability prediction. PLOS Water, 3(8), e0000259. https://doi.org/10.1371/journal.pwat.0000259
-* Musleh, F. A. (2024). A Comprehensive Comparative Study of Machine Learning Algorithms for Water Potability Classification. International Journal of Computing and Digital Systems, 15(1), 1189-1200. http://dx.doi.org/10.12785/ijcds/150184[cite:2].
-* Akhlaq, M., Ellahi, A., Niaz, R., Khan, M., Sammen, S. S., & Scholz, M. (2024). Comparative Analysis of Machine Learning Algorithms for Water Quality Prediction. Tellus A: Dynamic Meteorology and Oceanography, 76(1), 177-192. https://doi.org/10.16993/tellusa.4069[cite:3].
-* Ghosh, H., Tusher, M. A., Rahat, I. S., Khasim, S., & Mohanty, S. N. (2023). Water Quality Assessment Through Predictive Machine Learning. Dalam V. E. Balas, V. B. Semwal, & A. Khandare (Eds.), Intelligent Computing and Networking: Proceedings of IC-ICN 2023 (hlm. 77-88). Springer. https://doi.org/10.1007/978-981-99-3177-4_6[cite:4]
-* Patel, S., Shah, K., Vaghela, S., Aglodiya, M., & Bhattad, R. (2023). Water Potability Prediction Using Machine Learning. Research Square. https://doi.org/10.21203/rs.3.rs-2965961/v1[cite:5]
+* Musleh, F. A. (2024). A Comprehensive Comparative Study of Machine Learning Algorithms for Water Potability Classification. International Journal of Computing and Digital Systems, 15(1), 1189-1200. http://dx.doi.org/10.12785/ijcds/150184
+* Akhlaq, M., Ellahi, A., Niaz, R., Khan, M., Sammen, S. S., & Scholz, M. (2024). Comparative Analysis of Machine Learning Algorithms for Water Quality Prediction. Tellus A: Dynamic Meteorology and Oceanography, 76(1), 177-192. https://doi.org/10.16993/tellusa.4069
+* Ghosh, H., Tusher, M. A., Rahat, I. S., Khasim, S., & Mohanty, S. N. (2023). Water Quality Assessment Through Predictive Machine Learning. Dalam V. E. Balas, V. B. Semwal, & A. Khandare (Eds.), Intelligent Computing and Networking: Proceedings of IC-ICN 2023 (hlm. 77-88). Springer. https://doi.org/10.1007/978-981-99-3177-4_6
+* Patel, S., Shah, K., Vaghela, S., Aglodiya, M., & Bhattad, R. (2023). Water Potability Prediction Using Machine Learning. Research Square. https://doi.org/10.21203/rs.3.rs-2965961/v1
 
 
 
